@@ -1,2 +1,1 @@
-# BeautifyGameLink
-A tool for beautify game link
+# vercel-serverless-ts-template
